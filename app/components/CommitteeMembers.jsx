@@ -82,7 +82,7 @@ const CommitteeMembers = () => {
         <span className={stylesAbt.leftdesigns}>
           <img src="/images/sidedesigns.png" alt="side" />
         </span>
-       Committee Members
+        Committee Members
         <span className={stylesAbt.rightdesigns}>
           <img src="/images/sidedesigns.png" alt="side" />
         </span>
@@ -119,7 +119,10 @@ const CommitteeMembers = () => {
           </div>
         ))}
       </div>
-      <div className={stylesAbt.partitionDes}><img src="/images/partition.png" alt="image" width={300} /></div>
+
+      <div className={stylesAbt.partitionDes}>
+        <img src="/images/partition.png" alt="image" width={300} />
+      </div>
     </div>
   );
 };

@@ -6,11 +6,11 @@ import { IoMdClose } from "react-icons/io";
 
 const HeroNavBar = ({ show }) => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
-   const scrollToSection = (id) => {
+  const scrollToSection = (id) => {
     const element = document.getElementById(id);
     if (element) {
       element.scrollIntoView({ behavior: "smooth" });
-      setSidebarOpen(false); 
+      setSidebarOpen(false);
     }
   };
 
@@ -18,7 +18,6 @@ const HeroNavBar = ({ show }) => {
     <>
       <div className={`${styles.navbar} ${show ? styles.scrolled : ""}`}>
         <div>
-          {" "}
           <Image
             src="/images/evhomeslogowhite.png"
             alt="EV Homes Logo"

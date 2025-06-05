@@ -34,6 +34,7 @@
 .logoNav {
   width: 17vw;
   height: 8vh;
+  padding-left: 10px;
 }
 
 .hamburger {
@@ -91,7 +92,6 @@
 
   .hamburger {
     display: block;
-    color: white;
     padding-right: 10vw;
   }
 

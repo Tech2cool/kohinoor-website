@@ -42,7 +42,7 @@ const HeroPage = () => {
   }, []);
 
   return (
-    <div>
+    <>
       <div id="home" className={styles.heroBackground}>
         <div
           key={currentImageIndex}
@@ -89,7 +89,7 @@ const HeroPage = () => {
       >
         <FaAngleUp />
       </button>
-    </div>
+    </>
   );
 };
 

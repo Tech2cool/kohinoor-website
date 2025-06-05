@@ -3,9 +3,9 @@ import HeroPage from "./components/HeroPage";
 
 const page = () => {
   return (
-    <div>
+    <>
       <HeroPage />
-    </div>
+    </>
   );
 };
 
