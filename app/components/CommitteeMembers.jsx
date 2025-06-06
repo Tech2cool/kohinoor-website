@@ -5,73 +5,73 @@ import stylesAbt from "./about.module.css";
 const mainMembers = [
   {
     id: 1,
-    name: "DILIP LAXMAN NAIK",
+    name: "MR. MAHAVIR RAJGONDA SANGAVE",
+    designation: "SECRETARY",
+    image: "/images/secretary.jpeg",
+  },
+  {
+    id: 2,
+    name: "MR. DILIP LAXMAN NAIK",
     designation: "CHAIRMAN",
     image: "/images/chairman.jpeg",
   },
   {
-    id: 2,
-    name: "SAHEBRAO SAKHARAM MEMANE",
+    id: 3,
+    name: "MR. SAHEBRAO SAKHARAM MEMANE",
     designation: "TREASURER",
     image: "/images/treasurer.jpeg",
-  },
-  {
-    id: 3,
-    name: "MAHAVIR RAJGONDA SANGAVE",
-    designation: "SECRETARY",
-    image: "/images/secretary.jpeg",
   },
 ];
 
 const members = [
   {
     id: 1,
-    name: "ARUN CHANNAPPA LANDGE",
+    name: "MR. ARUN CHANNAPPA LANDGE",
     image: "/images/ARUN CHANNAPPA LANDGE.jpeg",
   },
   {
     id: 2,
-    name: "BHAGWAT HARIBA PAWAR",
+    name: "MR. BHAGWAT HARIBA PAWAR",
     image: "/images/BHAGWAT HARIBA PAWAR.jpeg",
   },
   {
     id: 3,
-    name: "DEVIDAS BAJIRAO GAIKWAD",
+    name: "MR. DEVIDAS BAJIRAO GAIKWAD",
     image: "/images/DEVIDAS BAJIRAO GAIKWAD.jpeg",
   },
   {
     id: 4,
-    name: "GULAB SHIVRAM BHAWAR",
+    name: "MR. GULAB SHIVRAM BHAWAR",
     image: "/images/GULAB SHIVRAM BHAWAR.jpeg",
   },
   {
     id: 5,
-    name: "JAYSINGH RAJARAM DANGARNE",
+    name: "MR. JAYSINGH RAJARAM DANGARNE",
     image: "/images/JAYSINGH RAJARAM DANGARNE.jpeg",
   },
   {
     id: 6,
-    name: "RESHMA SHANKAR PATIL",
+    name: "MS. RESHMA SHANKAR PATIL",
     image: "/images/RESHMA SHANKAR PATIL.jpeg",
   },
   {
     id: 7,
-    name: "MANIK PANDURANG TARU",
+    name: "MR. MANIK PANDURANG TARU",
     image: "/images/MANIK PANDURANG TARU.jpeg",
   },
   {
     id: 8,
-    name: "SANJAY RAGHUNATH SURVE",
+    name: "MR. SANJAY RAGHUNATH SURVE",
     image: "/images/SANJAY RAGHUNATH SURVE.jpg",
   },
   {
     id: 9,
-    name: "SHAMRAO RAMCHANDRA PAWAR",
+    name: "MR. SHAMRAO RAMCHANDRA PAWAR",
     image: "/images/SHAMRAO RAMCHANDRA PAWAR.jpeg",
   },
   {
     id: 10,
-    name: "VAISHALI MAHADEO MISTRY",
+    name: "MS. VAISHALI MAHADEO MISTRY",
     image: "/images/VAISHALI MAHADEO MISTRY.jpg",
   },
 ];
