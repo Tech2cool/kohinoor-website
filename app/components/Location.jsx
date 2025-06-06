@@ -30,7 +30,7 @@ const Location = () => {
         </div>
       </div>
       <div className={styles.footerDiv}>
-        <div>
+        {/* <div>
           {" "}
           <Image
             src="/images/evhomeslogowhite.png"
@@ -39,7 +39,7 @@ const Location = () => {
             height={50}
             className={stylesNav.logoNav}
           />
-        </div>
+        </div> */}
         {/* 
         <div className={styles.partitionDesFooter}>
           <img src="/images/partition.png" alt="image" />

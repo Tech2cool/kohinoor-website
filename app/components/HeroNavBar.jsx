@@ -17,7 +17,7 @@ const HeroNavBar = ({ show }) => {
   return (
     <>
       <div className={`${styles.navbar} ${show ? styles.scrolled : ""}`}>
-        <div>
+        {/* <div>
           <Image
             src="/images/evhomeslogowhite.png"
             alt="EV Homes Logo"
@@ -25,7 +25,7 @@ const HeroNavBar = ({ show }) => {
             height={50}
             className={styles.logoNav}
           />
-        </div>
+        </div> */}
         <nav>
           <ul className={styles.navList}>
             <li onClick={() => scrollToSection("home")}>Home</li>
