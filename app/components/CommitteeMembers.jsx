@@ -5,16 +5,17 @@ import stylesAbt from "./about.module.css";
 const mainMembers = [
   {
     id: 1,
-    name: "MR. MAHAVIR RAJGONDA SANGAVE",
-    designation: "SECRETARY",
-    image: "/images/secretary.jpeg",
-  },
-  {
-    id: 2,
     name: "MR. DILIP LAXMAN NAIK",
     designation: "CHAIRMAN",
     image: "/images/chairman.jpeg",
   },
+  {
+    id: 2,
+    name: "MR. MAHAVIR RAJGONDA SANGAVE",
+    designation: "SECRETARY",
+    image: "/images/secretary.jpeg",
+  },
+
   {
     id: 3,
     name: "MR. SAHEBRAO SAKHARAM MEMANE",
