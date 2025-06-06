@@ -16,7 +16,7 @@ const Location = () => {
   return (
     <div className={styles.mainContainer}>
       <div className={stylesAbt.locationContainer}>
-        <div className={stylesAbt.locHeadline}>Location</div>
+        <div className={stylesAbt.locHeadline}>Location (Kohinoor CHS)</div>
 
         <div className={styles.locationContainer}>
           <iframe
