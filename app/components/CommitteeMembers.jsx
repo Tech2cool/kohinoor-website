@@ -76,6 +76,7 @@ const members = [
     image: "/images/VAISHALI MAHADEO MISTRY.jpg",
   },
 ];
+//2001
 const CommitteeMembers = () => {
   return (
     <div className={stylesAbt.commContainer}>
