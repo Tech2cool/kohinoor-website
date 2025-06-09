@@ -32,9 +32,10 @@
 }
 
 .logoNav {
-  width: 15vw;
-  height: 12vh;
+  width: 13vw;
+  height: 10vh;
   padding-left: 10px;
+  padding-top: 2vh;
 }
 
 .hamburger {
