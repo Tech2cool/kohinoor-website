@@ -32,8 +32,8 @@
 }
 
 .logoNav {
-  width: 17vw;
-  height: 8vh;
+  width: 15vw;
+  height: 12vh;
   padding-left: 10px;
 }
 
@@ -85,6 +85,11 @@
   color: rgb(73, 192, 232);
 }
 
+.activeLink {
+  color: rgb(73, 192, 232) !important;
+  font-weight: bold;
+}
+
 @media screen and (max-width: 615px) {
   .navList {
     display: none;
@@ -96,8 +101,8 @@
   }
 
   .logoNav {
-    width: 50vw;
-    height: 5vh;
+    width: 40vw;
+    height: 7vh;
   }
 
   .navbar {
