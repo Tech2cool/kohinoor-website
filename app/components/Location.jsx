@@ -30,16 +30,16 @@ const Location = () => {
         </div>
       </div>
       <div className={styles.footerDiv}>
-        {/* <div>
+        <div>
           {" "}
           <Image
-            src="/images/evhomeslogowhite.png"
+            src="/images/kohinoorlogo.png"
             alt="EV Homes Logo"
-            width={250}
+            width={210}
             height={50}
             className={stylesNav.logoNav}
           />
-        </div> */}
+        </div>
         {/* 
         <div className={styles.partitionDesFooter}>
           <img src="/images/partition.png" alt="image" />
@@ -48,8 +48,10 @@ const Location = () => {
         <div className={styles.addSection}>
           <div className={styles.addHead}>Address</div>
           <div>
-            2 ND Floor, Office No A-212, Vardhaman Chembers, Plot No 84, Sector
-            17, Vashi, Navi Mumbai, Mumbai City, Maharashtra, 400703
+            {/* 2 ND Floor, Office No A-212, Vardhaman Chembers, Plot No 84, Sector
+            17, Vashi, Navi Mumbai, Mumbai City, Maharashtra, 400703 */}
+            Kohinoor Cooperative Housing Society, Sector 8, Sanpada, Navi
+            Mumbai, Maharashtra 400705.
           </div>
           {/* <div className={styles.phone}>Phone: +919820909893</div>
           <div>E-Mail: sales@evhomes.net</div> */}
